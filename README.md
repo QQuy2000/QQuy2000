@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quy
-- 🌱 I’m currently learning CS in HCMUT 
+- 🌱No more code
 
 
 <!---
